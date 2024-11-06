@@ -13,7 +13,9 @@
 <li><em>listbox1</em> - каждый раз, когда пользователь выполняет расчет, результат добавляется в этот список.</li>
 <li><em>button2</em> - при нажатии эта кнопка очищает textBox1 и textBox2, сбрасывает результат label3 на пустое значение.</li>
 </ul>
-
+<h1>Диаграмма IDEF0</h1>
+<a href="https://github.com/anastasia369/Count.git](https://github.com/user-attachments/assets/359a31ef-9218-4ff7-84af-ac64e1264259">Ссылка на диаграмму</a>
+</li>
 <h1>Инструкция по установке</h1>
 <em>Предварительные условия:</em>
 <ol>
