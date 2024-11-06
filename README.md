@@ -14,7 +14,8 @@
 <li><em>button2</em> - при нажатии эта кнопка очищает textBox1 и textBox2, сбрасывает результат label3 на пустое значение.</li>
 </ul>
 <h1>Диаграмма IDEF0</h1>
-<a href="https://github.com/user-attachments/assets/359a31ef-9218-4ff7-84af-ac64e1264259">Ссылка на диаграмму</a>
+<a href="https://github.com/user-attachments/assets/7a01dc3f-fef0-43ed-b4c7-740c7ebcdda1">Ссылка на Контекстную диаграмму</a>
+
 </li>
 <h1>Инструкция по установке</h1>
 <em>Предварительные условия:</em>
